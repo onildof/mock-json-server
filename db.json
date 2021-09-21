@@ -1,0 +1,12 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Capivara"
+        },
+        {
+            "id": 2,
+            "title": "Égua"
+        }
+    ]
+}
