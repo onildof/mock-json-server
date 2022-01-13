@@ -42,6 +42,39 @@
           "time": "11:00",
           "petsAllowed": false,
           "organizer": "Carey Wales"
+        },
+        {
+          "id": 7823101,
+          "category": "politics",
+          "title": "Congressman Mailing Day",
+          "description": "Send them messages.",
+          "location": "Meow Town",
+          "date": "January 28, 2022",
+          "time": "12:00",
+          "petsAllowed": true,
+          "organizer": "Kat Laydee"
+        },
+        {
+          "id": 5654497,
+          "category": "alcohol",
+          "title": "Drinking Spree",
+          "description": "Join us as we get wasted.",
+          "location": "Flora City",
+          "date": "March 14, 2022",
+          "time": "10:00",
+          "petsAllowed": true,
+          "organizer": "Fern Pollin"
+        },
+        {
+          "id": 426988,
+          "category": "religion",
+          "title": "Spaghetti Monster Mass",
+          "description": "Praise His Noddleness.",
+          "location": "Playa Del Carmen",
+          "date": "July 22, 2022",
+          "time": "11:00",
+          "petsAllowed": false,
+          "organizer": "Carey Wales"
         }
     ]
 }
